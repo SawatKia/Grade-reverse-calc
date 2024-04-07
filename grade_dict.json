@@ -1,0 +1,26 @@
+{
+    "CEPP": {
+        "credit": 2,
+        "grade": ""
+    },
+    "SDP": {
+        "credit": 3,
+        "grade": ""
+    },
+    "IST": {
+        "credit": 3,
+        "grade": ""
+    },
+    "IST_lab": {
+        "credit": 1,
+        "grade": ""
+    },
+    "DB": {
+        "credit": 3,
+        "grade": "B"
+    },
+    "Happy": {
+        "credit": 3,
+        "grade": ""
+    }
+}
